@@ -3,17 +3,17 @@
         <img src="http://bayudwiyansatria.pasca.student.pens.ac.id/pens.png" />
     </a>
     <br>
-    <strong>Master Degree's Library Electronics Engineering Polytechnic Institute of Surabaya</strong>
+    <strong>CODE OF CONDUCT</strong>
 </p>
 <p align="center">
 	<a href="#">
-		<img src="https://img.shields.io/badge/%20Build-EEPIS-blue.svg?style=flat-square" alt="EEPIS" />
+		<img src="https://img.shields.io/badge/%20Build-NO%20BUILD-blue.svg?style=flat-square" alt="Build" />
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/%20Platforms-Windows-brightgreen.svg?style=flat-square" alt="Platforms" />
+		<img src="https://img.shields.io/badge/%20Platforms-Windows%2010/Linux/MacOS-brightgreen.svg?style=flat-square" alt="Platforms" />
 	</a>
     <a href="https://github.com/bayudwiyansatria/pascasarjana/blob/master/LICENSE">
-		<img src="https://img.shields.io/badge/%20Licence-EEPIS-green.svg?style=flat-square" alt="license" />
+		<img src="https://img.shields.io/badge/%20Licence-EEPIS-green.svg?style=flat-square" alt="LICENSE" />
 	</a>
 </p>
 <p align="center">
