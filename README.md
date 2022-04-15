@@ -1,44 +1,23 @@
-<p align="center">
-<a href="https://bayudwiyansatria.github.io/Development-And-Operations/">
-<img src="https://cdn.bayudwiyansatria.com/assets/logo-full.png" width="100%" />
-</a>
-<br>
-</p>
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/%20Platforms-Windows%20/%20Linux-blue.svg?style=flat-square" alt="Platforms" />
-</a>
-<a href="https://bayudwiyansatria.github.io/Development-And-Operations/blob/master/LICENSE">
-<img src="https://img.shields.io/badge/%20Licence-MIT-green.svg?style=flat-square" alt="license" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/bayudwiyansatria/Development-And-Operations/blob/master/CODE_OF_CONDUCT.md">
-<img src="https://img.shields.io/badge/Community-Code%20of%20Conduct-orange.svg?style=flat-squre" alt="Code of Conduct" />
-</a>
-<a href="https://github.com/bayudwiyansatria/Development-And-Operations/blob/master/SUPPORT.md">
-<img src="https://img.shields.io/badge/Community-Support-red.svg?style=flat-square" alt="Support" />
-</a>
-<a href="https://github.com/bayudwiyansatria/Development-And-Operations/blob/master/CONTRIBUTING.md">
-<img src="https://img.shields.io/badge/%20Community-Contribution-yellow.svg?style=flat-square" alt="Contribution" />
-</a>
-</p>
+![Platforms](https://img.shields.io/badge/%20Platforms-Windows%20/%20Linux-blue.svg?style=flat-square")
+[![License](https://img.shields.io/badge/%20Licence-MIT-green.svg?style=flat-square)](LICENSE.md)
+[![Code Of Conduct](https://img.shields.io/badge/Community-Code%20of%20Conduct-orange.svg?style=flat-squre)](CODE_OF_CONDUCT.md)
+[![Support](https://img.shields.io/badge/Community-Support-red.svg?style=flat-square)](SUPPORT.md)
+[![Contributing](https://img.shields.io/badge/%20Community-Contribution-yellow.svg?style=flat-square)](CONTRIBUTING.md)
+
 <hr>
 
 # Development and Operation
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-![Github Actions](https://github.com/bayudwiyansatria/Development-And-Operations/workflows/Github%20Action/badge.svg)
-
 Global Template Repository for Development and Operations Of Your Projects.
 
 | Key|Values|
 | ------| ----- |
-| Author| Bayu Dwiyan Satria |
-| Email | bayudwiyansatria@gmail.com |
-| Phone | +62-823-9602-9583 |
-| Website | [https://bayudwiyansatria.com](https://bayudwiyansatria.com) |
+| Author| SatuMedis |
+| Email | admin@satumedis.com |
+| Phone | +62 819-3195-3347 |
+| Website | [https://satumedis.com](https://satumedis.com) |
 
 ## Table of Contents
 
@@ -94,10 +73,8 @@ Please make sure to update tests as appropriate.
 
 Looking to contribute to our code but need some help? There's a few ways to get information:
 
-* Connect with us on [Twitter](https://twitter.com/bayudsatria)
-* Like us on [Facebook](https://facebook.com/PBayuDSatria)
-* Follow us on [LinkedIn](https://linkedin.com/in/bayudwiyansatria)
-* Subscribe us on [Youtube](https://youtube.com/channel/UCihxWj1rtheK73mGdrf0OiA)
+* Like us on [Facebook](https://www.facebook.com/Satu-Medis-105748411887183)
+* Follow us on [LinkedIn](https://www.linkedin.com/company/76233667/)
 * Log an issue here on github
 
 ## Versioning
@@ -106,11 +83,12 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
+* **[Muhammad Febrian Ardiansyah](https://github.com/ardihikaru)** - *Initial work*
 * **[Bayu Dwiyan Satria](https://github.com/bayudwiyansatria)** - *Initial work*
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
 
 <p> Copyright &copy; 2017 - 2019 Public Use. All Rights Reserved.
 
